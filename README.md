@@ -6,9 +6,9 @@
 
 <h3>Images:</h3>
 
-![img1](../IMG/img1.jpg)  ![img2](../IMG/img2.jpg)
+![img1](IMG/img1.jpg)  ![img2](IMG/img2.jpg)
 
-![img3](../IMG/img3.jpg)  ![img4](../IMG/img4.jpg)
+![img3](IMG/img3.jpg)  ![img4](IMG/img4.jpg)
 
 This exercise serves as a practical training ground for honing Windows Forms skills. While currently a basic calculator, the intention is to elevate its functionality to encompass a broader spectrum. The envisioned enhancements include transforming it into a scientific calculator, integrating features for currency conversion, and enabling the conversion of binary, hexadecimal, and octal numbers. Furthermore, there is a commitment to refining its visual aesthetics for a more polished appearance.
 
